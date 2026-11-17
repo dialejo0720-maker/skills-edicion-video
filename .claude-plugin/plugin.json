@@ -1,0 +1,7 @@
+{
+  "name": "edicion-video",
+  "version": "1.0.0",
+  "description": "Skills de edición de video: video-con-vida, video-pizarra y cancion-video-karaoke.",
+  "author": { "name": "Horizontes IA" },
+  "keywords": ["video", "edicion", "reels", "pizarra", "karaoke", "efectos"]
+}

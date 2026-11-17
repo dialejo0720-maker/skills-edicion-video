@@ -1,0 +1,16 @@
+{
+  "name": "skills-edicion",
+  "owner": { "name": "Horizontes IA" },
+  "metadata": {
+    "description": "Skills de edición de video para Claude Code: efectos a cámara, videos tipo pizarra y canciones con video karaoke."
+  },
+  "plugins": [
+    {
+      "name": "edicion-video",
+      "source": "./",
+      "description": "3 skills de edición: video-con-vida (17 efectos para videos a cámara), video-pizarra (videos animados estilo pizarrón y acuarela) y cancion-video-karaoke (canción para Suno + video karaoke con fotos).",
+      "version": "1.0.0",
+      "category": "video"
+    }
+  ]
+}
